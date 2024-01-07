@@ -1,6 +1,6 @@
 ![logo](https://github.com/sakshikore16/sakshikore16/blob/main/git%20banner.png)
 <h1 align="center">Hi 👋, I'm Sakshi Kore!</h1>
-<h3 align="center">A Passionate Software Engineer from India 🚀</h3>
+<h3 align="center">A Passionate Software Engineer from India ⭐️</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m Currently Learning **Python**
 
-- 👨‍💻 All of my Projects are Available at [https://github.com/sakshikore16](https://github.com/sakshikore16)
+- 👩‍💻 All of my Projects are Available at [https://github.com/sakshikore16](https://github.com/sakshikore16)
 
 - 📫 How to Reach me **sakshikore16@gmail.com**
 
