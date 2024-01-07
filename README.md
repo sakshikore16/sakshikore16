@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshikore16&label=Profile%20views&color=0e75b6&style=flat" alt="sakshikore16" /> </p>
 
-- 🔭 I’m currently studying **Computer Science**
+- 🔭 I’m Currently Studying **Computer Science**
 
 - 🌱 I’m Currently Learning **Python**
 
 - 👩‍💻 All of my Projects are Available at [https://github.com/sakshikore16](https://github.com/sakshikore16)
 
-- 📫 How to reach me **sakshikore16@gmail.com**
+- 📫 How to Reach Me **sakshikore16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
