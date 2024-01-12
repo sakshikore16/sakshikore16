@@ -41,10 +41,12 @@
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshikore16&show_icons=true&locale=en&layout=compact" alt="sakshikore16" /></p>
+
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshikore16&show_icons=true&locale=en" alt="sakshikore16" /></p>
 
 <div align="left">
