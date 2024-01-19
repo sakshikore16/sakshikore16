@@ -13,9 +13,9 @@
 
 - 🔭 I’m Currently Studying **Computer Science**
 
-- 🌱 I’m Currently Learning **Python**
+- 🌱 I’m Currently Learning **DSA & HTML 5**
 
-- 👩‍💻 All of my Projects are Available at [https://github.com/sakshikore16](https://github.com/sakshikore16)
+- 👩‍💻 All of my Projects are Available at **[https://github.com/sakshikore16]**(https://github.com/sakshikore16)
 
 - 📫 How to Reach Me **sakshikore16@gmail.com**
 
