@@ -24,6 +24,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/sakshi kore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi kore" height="30" width="40" /></a>
 <a href="https://instagram.com/sakshiix__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshiix__" height="30" width="40" /></a>
+<a href="https://twitter.com/kore_sakshi16" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-black-icon.png" alt="kore_sakshi16" height="30" width="34" /></a>
+<a href="discordapp.com/users/852953018559102986" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="852953018559102986" height="35" width="35" /></a>
 </p>
 
 <div align="left">
