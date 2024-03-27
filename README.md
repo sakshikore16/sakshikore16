@@ -13,7 +13,7 @@
 
 - 🔭 I’m Currently Studying **Computer Science**
 
-- 🌱 I’m Currently Learning **DSA & HTML 5**
+- 🌱 I’m Currently Learning **JavaScript**
 
 - 👩‍💻 All of my Projects are Available at [https://github.com/sakshikore16](https://github.com/sakshikore16)
 
@@ -32,7 +32,7 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" /> <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"><img width="36" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg" alt="HTML5" title="HTML5"/> <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/><img width="45" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.svg" alt="CSS3" title="CSS3"/><img src="https://i.ibb.co/3sDXT6J/dsa.png" alt="dsa" border="0" width="53">
+<p align="left"> <img width="43" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" title="c"/> <img width="43" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" title="cpp"/> <img width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="python"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="52" height="50">  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" /> <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"><img width="36" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg" alt="HTML5" title="HTML5"/> <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/><img width="45" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.svg" alt="CSS3" title="CSS3"/><img src="https://i.ibb.co/3sDXT6J/dsa.png" alt="dsa" border="0" width="53"><img width="45" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" title="unity"/>
 </p>
 
 <div align="left">
