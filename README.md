@@ -13,7 +13,7 @@
 
 - 🔭 I’m Currently Studying **Computer Science**
 
-- 🌱 I’m Currently Learning **JavaScript**
+- 🌱 I’m Currently Learning **ReactJS**
 
 - 👩‍💻 All of my Projects are Available at [https://github.com/sakshikore16](https://github.com/sakshikore16)
 
